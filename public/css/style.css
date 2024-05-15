@@ -1,0 +1,27 @@
+.form-control:focus {
+    border-color: #21864b;
+    box-shadow: 0 0 0 5px rgba(20, 172, 83, 0.25);
+
+}
+
+.form-select:focus {
+    border-color: #21864b;
+    box-shadow: 0 0 0 5px rgba(20, 172, 83, 0.25);
+}
+
+.form-select:focus option:hover {
+    background-color: #21864b !important;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+

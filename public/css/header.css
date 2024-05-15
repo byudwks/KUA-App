@@ -1,0 +1,71 @@
+.paren-simkah{
+    position: relative;
+    height: 155px;
+    
+}
+
+.bg-simkah{
+    background-color: #8cd8ab !important;
+    border-radius: 0 50px 200px 0;
+    height: 155px;
+    position: absolute;
+    width: 600px;
+    z-index: 1;
+    left: -350px;
+    justify-content: end;
+}
+
+
+.img-simkah{
+    height: 150px;
+    width: 150px;
+    margin-right: 60px;
+    margin-top: 2px;
+}
+
+.img-kua {
+    height: 100px;
+    width: 130px;
+    position: absolute;
+    right: 50px;
+    top: 20px;
+}
+
+.text-header{
+    text-align: end;
+    padding-right: 200px;
+    padding-top: 30px;
+}
+
+.datapengantin td{
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.datapengantin{
+   margin-top:20px;
+   margin-left: 55px;
+}
+
+
+.bg-pf{
+    height:50px ;
+    border-radius: 100px 10px 100px 10px;
+
+}
+
+.t-atas{
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.t-bawah{
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.datawali {
+    text-transform: capitalize;
+    font-weight: 700;
+ }
